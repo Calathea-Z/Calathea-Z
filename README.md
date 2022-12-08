@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Calathea-Z
-- 👀 I’m interested in music.
-- 🌱 I’m currently learning how to code some cool stuff. 
-- 💞️ I’m looking to collaborate on many things.
+- 👋 Hi, I’m Zach
+-  🌱 💻 Fullstack Developer | 💡Software Engineer |
+-  Music & Travel Lover 
 - 📫 How to reach me - zsykes21@gmail.com
 
 <!---

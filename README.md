@@ -4,7 +4,7 @@
 - 📫 Get In Touch - zsykes21@gmail.com
 - 💼 Portfolio - https://zach-sykes.netlify.app/
 
-I am a software engineer that grew up working in kitchens where I gained eight years of experience building and cultivating teams as the a Head Chef / Kitchen Manager. I specialize in full-stack Javascript Technologies (MERN Stack). When I'm not coding you will find me at a concert, cycling, or planning my next excursion to a new part of the world. Please get in touch with any questions or suggestions about anything you find here on my github.
+I am a skilled software engineer with a diverse background in music and kitchen management. My experiences have given me valuable skills in teamwork, problem-solving and adaptability. I love to travel, attend concerts and ride my bike. I currently reside in Asheville, North Carolina, where I work with my coding partner, Suzie the French Bulldog. I am open to new opportunities and eager to continue growing my skills and experience.
 
 <!---
 Calathea-Z/Calathea-Z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

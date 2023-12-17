@@ -1,5 +1,5 @@
 -  👋 Hi, I’m Zach
--  💻 Fullstack Software Developer && Novice GameDev
+-  💻 Fullstack Software Developer
 -  🎸 Music & Travel Lover 
 -  💼 Portfolio - https://zach-sykes.com
 

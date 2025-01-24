@@ -1,6 +1,4 @@
 -  👋 Hi, I’m Zach
--  💻 Fullstack Software Developer
--  🎸 Music & Travel Lover 
 -  💼 Portfolio - https://zach-sykes.com
 
 <!---
